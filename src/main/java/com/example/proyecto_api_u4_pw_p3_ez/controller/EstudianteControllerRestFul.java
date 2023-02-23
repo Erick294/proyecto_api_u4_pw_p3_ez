@@ -19,7 +19,7 @@ import com.example.proyecto_api_u4_pw_p3_ez.service.To.ClienteTo;
 
 @RestController
 @RequestMapping("/clientes")
-public class EstudianteControllerRestFul {
+public class ClienteControllerRestFul {
 
     @Autowired
     private IClienteService clienteService;
